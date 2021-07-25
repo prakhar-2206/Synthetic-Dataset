@@ -1,0 +1,17 @@
+{
+    "size" : [1200 , 800] ,
+    "name" : [350 , 300] ,  
+    "college" : [380 , 100] ,
+    "branch" : [350 , 350] ,
+    "dob" : [350 , 400] ,
+    "validity" : [500 ,600] ,
+    "col_address" : [400,180] ,
+    "stu_address" : [350 , 400] ,
+    "address_size" : 35 ,
+    "font_size" : 1.75 ,  
+    "thickness" : 3 , 
+    "top_left_sign" : [950, 600],
+    "bottom_right_sign" : [1150 , 750],
+    "photo" : [75 ,250]
+      
+}

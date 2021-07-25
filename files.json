@@ -1,0 +1,12 @@
+{
+ 
+    "image_1.png" : "json_files/details_image_1.json" , 
+    "image_2.png" : "json_files/details_image_2.json" , 
+    "image_3.png" : "json_files/details_image_3.json" , 
+    "image_4.png" : "json_files/details_image_4.json" , 
+    "image_5.png" : "json_files/details_image_5.json" ,
+    "image_6.png" : "json_files/details_image_6.json" ,
+    "image_7.png" : "json_files/details_image_7.json" ,
+    "image_8.png" : "json_files/details_image_8.json" 
+
+}
